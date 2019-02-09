@@ -20,7 +20,7 @@
 
 
 
- ![alt text](https://github.com/jmartinho/processing-classes/blob/master/aula%2005%20distancia,%20vetores/exemplo1.gif?raw=true)
+ ![alt text](https://github.com/jmartinho/processing-classes/blob/master/aula%2005%20distancia,%20vetores/exemplo2.gif?raw=true)
  
 
  ![alt text](https://github.com/jmartinho/processing-classes/blob/master/aula%2005%20distancia,%20vetores/exemplo1.gif?raw=true)

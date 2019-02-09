@@ -1,0 +1,5 @@
+Portugal,10,91
+Espanha,47,504
+Inglaterra,62,244
+Alemanha,82,357
+Holanda,16,41

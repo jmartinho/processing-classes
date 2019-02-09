@@ -5,9 +5,11 @@
   
   Aula 1 - 201311109
 
-  Introducao Processing
+  Introducao Processing:
 	
   Modo passivo (sem declaracao do ciclo principal)
+
   Modo activo (ciclo draw)
+
   Variaveis
 
